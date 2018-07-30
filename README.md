@@ -1,7 +1,7 @@
 # linked list-of-linked lists
-A Menu driven C program 
-linked list which maintains n number of linked lists
-A main linkled list whose each node stores an address to start of independent linked list.
+A Menu driven C program </br>
+linked list which maintains n number of linked lists</br>
+A main linkled list whose each node stores an address to start of independent linked list.</br>
 Every linked list is a <b> Singly Linked List </b>
 Functions on linklists:</br>
   	1:Create Linked List</br>
